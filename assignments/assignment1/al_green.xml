@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CD_cover>
+    <front>
+    </front>
+    <back>
+        <left-sidebar background-color="red">
+            <image ref="DVD_Video_Logo.jpg"/>
+            <image ref="DTS_Logo.jpg"/>
+            <image ref="DolbyDigital_Logo.jpg"/>
+            <image ref="MLP_Logo.jpg"/>
+            <image ref="DVD_Audio_Logo.jpg"/>
+            <image ref="QQCC_Logo.jpg"/>
+            <title style="sideways-all-caps">AL GREEN'S GREATEST HITS</title>
+         </left-sidebar>
+<middle background-color="red">        
+        <top-half>
+        <tracklisting position="right">
+            <list>
+                <song>
+                <song_title style="all-caps">TIRED OF BEING ALONE</song_title>
+                <song_credits>A. Green</song_credits>
+                <PRO>BMI</PRO>
+                </song>
+                <song>
+                    <song_title style="all-caps" type="main">CALL ME</song_title>
+                    <song_title type="parathesis">(COME BACK HOME)</song_title>
+                    <song_credits>A. Green; W. Mitchell; AJackson</song_credits>
+                    <PRO>BMI</PRO>
+                </song>
+                <song>
+                    <song_title style="all-caps">I'M STILL IN LOVE WITH YOU</song_title>
+                    <song_credits>A. Green; W. Mitchell; AJackson</song_credits>
+                    <PRO>BMI</PRO>
+                </song>
+                <song>
+                    <song_title style="all-caps" type="main">HERE I AM</song_title>
+                    <song_title type="parathesis">(COME AND TAKE ME)</song_title>
+                    <song_credits>A. Green; M. Hodges</song_credits>
+                    <PRO>BMI</PRO>
+                </song>
+                <song>
+                    <song_title style="all-caps">HOW CAN YOU MEND A BROKEN HEART</song_title>
+                    <song_credits>B. Gibb; R. Gibb</song_credits>
+                    <PRO>BMI</PRO>
+                </song>
+                <song>
+                    <song_title style="all-caps">LET'S STAY TOGETHER</song_title>
+                    <song_credits>A. Green; W. Mitchell; AJackson</song_credits>
+                    <PRO>BMI</PRO>
+                </song>
+                <song>
+                    <song_title style="all-caps">I CAN'T GET NEXT TO YOU</song_title>
+                    <song_credits>Whitfield; Strong</song_credits>
+                    <PRO>ASCAP</PRO>
+                </song>
+                <song>
+                    <song_title style="all-caps">YOU OUGHT TO BE WITH ME</song_title>
+                    <song_credits>A. Green; W. Mitchell; A.Jackson</song_credits>
+                    <PRO>BMI</PRO>
+                </song>
+                <song>
+                    <song_title style="all-caps">LOOK WHAT YOU DONE FOR ME</song_title>
+                    <song_credits>A. Green; W. Mitchell; AJackson</song_credits>
+                    <PRO>BMI</PRO>
+                </song>
+                <song>
+                    <song_title style="all-caps">LET'S GET MARRIED</song_title>
+                    <song_credits>A. Green</song_credits>
+                    <PRO>BMI</PRO>
+                </song>
+             </list>
+        </tracklisting>
+        <technologies>
+            <image ref="QQCC_Logo.jpg"/>
+            <image ref="DVD_Audio_Logo.jpg"/>
+            <image ref="MLP_Logo.jpg"/>
+            <image ref="DolbyDigital_Logo.jpg"/>
+            <image ref="DTS_Logo.jpg"/>
+            <image ref="DVD_Video_Logo.jpg"/>
+        </technologies>
+        <record_credits position="left">
+            <job type="title" style="all-caps">PRODUCER:
+               <name>Willie Mitchell</name>
+               <name>Al Green</name>    
+            </job>    
+            <job style="all-caps">ENGINEER:
+                <name>Willie Mitchell</name>
+            </job>
+            <job style="all-caps">REMIX ENGINEER:
+                 <name>Willie Mitchell</name>
+            </job>
+            <job style="all-caps">VOCAL BACKGROUNDS:
+              <name>Rhodes</name>
+              <name>Chalmers</name>
+              <name>Rhodes</name>    
+            </job>
+              <job style="all-caps">STRING ARRAMGEMENTS:
+                   <name>James Mitchell</name>
+                  <name>Charles Chalmers</name>
+              </job>
+              <job>STRING SECTION:
+                    <name type="band_name">The Memphis Strings</name>    
+              </job>
+              <job style="all-caps">HORN SECTION:
+                    <name>Wayne Jackson
+                    <instrument>Trumpet</instrument>
+                    </name>
+                  <name>Andrew Love
+                      <instrument>Tenor</instrument>
+                  </name>
+                  <name>Ed Logan
+                      <instrument>Tenor</instrument>
+                  </name>
+                  <name>James Mitchell
+                      <instrument>Baritone Sax</instrument>
+                  </name>
+                  <name>Jack Hole
+                      <instrument>Trombone</instrument>
+                  </name>
+              </job> 
+            <job style="all-caps">RHYTHM SECTION
+            <name>Howard Grimes</name>
+            <name>Al Jackson
+            <instrument>Drums</instrument>
+            <instrument>Congas</instrument>
+            <instrument>Bongo</instrument>
+            </name>
+            <name>Leroy Hodges
+            <instrument>Bass</instrument>
+            </name>
+            <name>Charies Hodges
+                <instrument>Organ</instrument>
+                <instrument>Piano</instrument>
+            </name>    
+             <name>Teenie Hodges
+                <instrument>Guitar</instrument>
+             </name>
+             <name>Archie Turner
+             <instrument>Piano</instrument>
+             </name>
+             <name>Michael Allen
+                    <instrument>Piano</instrument></name>   
+            </job>
+            <recorded_at>
+                <location>
+                    <studio_name>Royal Recording Studios</studio_name>
+                    <city>Memphis</city>
+                    <state>TN</state>
+                </location>
+            </recorded_at>    
+       </record_credits>
+        </top-half>            
+<bottom-half>        
+      <image ref="al-green.jpg"/>
+      <image ref="hi-records.jpg"/>
+</bottom-half>    
+</middle>        
+    <right-sidebar background-color="red">
+          <title style="sideways-all-caps">AL GREEN'S GREATEST HITS</title>
+          <image ref="QQCC_Logo.jpg"/>
+          <image ref="DVD_Audio_Logo.jpg"/>
+          <image ref="MLP_Logo.jpg"/>
+          <image ref="DolbyDigital_Logo.jpg"/>
+          <image ref="DTS_Logo.jpg"/>
+          <image ref="DVD_Video_Logo.jpg"/>
+      </right-sidebar>  
+    </back>
+</CD_cover>
