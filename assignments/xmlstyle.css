@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: SourceSansPro;
+    src: url(SourceSansPro-Light.otf);
+}
+
+titlePage {
+    font-family: SourceSansPro;
+    background: #e2dac5;
+    display: inline-block;
+    padding: 75px;
+}
+
+
+lb {
+    line-height: normal;
+}
+
+* {
+    display: block;
+}
+
+[rendition~="#center"] {
+    text-align: center;
+}
+
+[rendition~="#x-large"] {
+    font-size: 150%;
+}
+
+[rendition~="#large"] {
+    font-size: 100%;
+}
+
+[rendition~="#small"] {
+    font-size: 50%;
+}
+
+[rendition~="#xx-large"] {
+    font-size: 200%;
+}
+
+[rendition~="#red"] {
+    color: red;
+}
+
+space[quantity="5"] {
+    padding: 50px;
+}
+
+space[quantity="4"] {
+    padding: 40px;
+}
+
+space[quantity="3"] {
+    padding: 30px;
+}
+
+space[quantity="1"] {
+    padding: 10px;
+}
+
+[rendition~="#uppercase"] {
+    text-transform: uppercase;
+}
+
+[rendition~="#expanded"] {
+    letter-spacing: .25em;
+}
+
+docDate:after {
+    content:attr(when);
+}
+
