@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="xmlstyle.css"?>
+<span>
 <titlePage>    
     <docTitle rendition="#center">
         <titlePart type="main">
@@ -29,3 +30,4 @@
         <docDate when="1904" rendition="#small"/>
     </docImprint>  
 </titlePage>
+</span>
