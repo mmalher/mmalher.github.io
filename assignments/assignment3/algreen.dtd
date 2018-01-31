@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT CD_cover (front, back)>
+<!ELEMENT front (#PCDATA)>
+<!ELEMENT  back (left-sidebar, middle, right-sidebar)+ >
+<!ELEMENT  left-sidebar (image+, title+) >
+<!ATTLIST left-sidebar background-color CDATA #IMPLIED >
+<!ELEMENT image (#PCDATA)>
+<!ATTLIST image ref CDATA #IMPLIED>
+<!ELEMENT  title ANY >
+<!ATTLIST title style CDATA #IMPLIED >
+<!ELEMENT  middle (top-half+, bottom-half+) >
+<!ATTLIST middle background-color CDATA #IMPLIED >
+<!ELEMENT top-half (tracklisting+, technologies+, record_credits+)>
+<!ELEMENT tracklisting (list+) >
+<!ATTLIST tracklisting position CDATA #IMPLIED >
+<!ELEMENT  list (song+) >
+<!ELEMENT song (song_title+, song_credits+, PRO+)>
+<!ELEMENT song_title (#PCDATA) >
+<!ATTLIST song_title style CDATA #IMPLIED >
+<!ATTLIST  song_title type CDATA #IMPLIED >
+<!ELEMENT  song_credits (#PCDATA) >
+<!ELEMENT PRO (#PCDATA)>
+<!ELEMENT  technologies (image+) >
+<!ELEMENT record_credits (job+, recorded_at+)>
+<!ATTLIST record_credits position CDATA #REQUIRED >
+<!ELEMENT  job (#PCDATA | name | instrument)* >
+<!ELEMENT  job_title (#PCDATA) >
+<!ELEMENT name (#PCDATA) >
+<!ATTLIST name type CDATA #IMPLIED>
+<!ATTLIST job type CDATA #IMPLIED >
+<!ATTLIST job style CDATA #IMPLIED >
+<!ELEMENT instrument (#PCDATA)>
+<!ELEMENT recorded_at (location+)>
+<!ELEMENT location (studio_name+,city+,state+)>
+<!ELEMENT studio_name (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT state (#PCDATA) >
+<!ELEMENT  right-sidebar (title+,image+) >
+<!ATTLIST right-sidebar background-color CDATA #IMPLIED >
+<!ELEMENT  bottom-half (image*) >
+
+

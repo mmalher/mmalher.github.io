@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe
+    xmlns="https://www.w3schools.com"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="recipe.xsd">
+<recipe>
+    <title>French Cranberry Chicken</title>
+    <ingredients>
+        <list>
+            <item>1 cup of Success French Creme Dressing (prepared)</item>
+            <item>1 cup whole cranberry sauce</item>
+            <item>1 package dry onion soup mix</item>
+            <item>1 1/2 pounds of boneless chicken breast</item>
+        </list>
+    </ingredients>
+    <directions>
+        <list>
+            <step>Place chicken in a 9 x 13 dish.</step>
+            <step>Mix dressing, cranberry sauce, and soup mix and pour over chicken</step>
+            <step>Bake at 350 degrees for 45 minutes</step>
+            <step>Serve over rice and enjoy</step>
+        </list>
+    </directions>
+</recipe>
+</recipe>
