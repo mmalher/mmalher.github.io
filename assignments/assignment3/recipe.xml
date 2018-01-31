@@ -2,7 +2,7 @@
 <recipe
     xmlns="https://www.w3schools.com"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="recipe.xsd">
+    xsi:noNamespaceSchemaLocation="mmalher.github.io/assignments/assignment3/recipe.xsd">
 <recipe>
     <title>French Cranberry Chicken</title>
     <ingredients>
