@@ -3,8 +3,9 @@ layout: post
 title: "Matthew Malher: XPath Homework"
 date: 2018-02-01
 ---
-
-1. //div[1]/@id  
+<ol>
+	<li>1. //div[1]/@id</li>  
+</ol>
 2. 1  
 3. //availability/p[1]  
 4.   
