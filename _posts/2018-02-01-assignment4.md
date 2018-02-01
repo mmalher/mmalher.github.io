@@ -9,8 +9,8 @@ date: 2018-02-01
 <li>//availability/p[1]</li>
 <li>
 <ol>
-	<li>//publicationStmt/publisher | //publicationStmt/pubPlace</li>
-	<li>//publicationStmt/*[self::publisher or self::pubPlace]</li>
+	<li type="1">//publicationStmt/publisher | //publicationStmt/pubPlace</li>
+	<li type="1">//publicationStmt/*[self::publisher or self::pubPlace]</li>
 </ol>
 </li>
 <li>34</li>
