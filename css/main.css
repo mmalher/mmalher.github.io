@@ -41,3 +41,20 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+p {
+    text-align:center;
+}
