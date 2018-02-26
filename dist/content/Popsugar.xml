@@ -18,10 +18,10 @@
         <body>
             <table>
                 <head>Popsugar Challenge 2018</head>
-                <row n="1">
-                    <cell><hi rend="bold">Prompt</hi></cell>
-                    <cell><hi rend="bold">Title</hi></cell>
-                    <cell><hi rend="bold">Author</hi></cell>
+                <row role="label">
+                    <cell role="label">Prompt</cell>
+                    <cell role="label">Title</cell>
+                    <cell role="label">Author</cell>
                 </row>
                 <row n="2">
                     <cell>A book made into a movie you’ve already seen</cell>
