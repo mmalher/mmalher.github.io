@@ -1,0 +1,190 @@
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p>No publication statement</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A TEI file automatically converted from a XSLX file.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <head>Sheet1</head>
+                <row n="1">
+                    <cell>Prompt</cell>
+                    <cell>Title</cell>
+                    <cell>Author</cell>
+                </row>
+                <row n="2">
+                    <cell>A book made into a movie you’ve already seen</cell>
+                    <cell>Nothing Last Forever</cell>
+                    <cell>Roderick Thorp</cell>
+                </row>
+                <row n="3">
+                    <cell>True crime</cell>
+                    <cell>Zodiac</cell>
+                    <cell>Robert Graysmith</cell>
+                </row>
+                <row n="4">
+                    <cell>The next book in a series you started</cell>
+                    <cell>The Pale Horseman</cell>
+                    <cell>Bernard Cornwell</cell>
+                </row>
+                <row n="5">
+                    <cell>A book involving a heist</cell>
+                    <cell>Camino Island</cell>
+                    <cell>John Grisham</cell>
+                </row>
+                <row n="6">
+                    <cell>Nordic noir</cell>
+                    <cell>The Girl with the Dragon Tattoo</cell>
+                    <cell>Stieg Larsson</cell>
+                </row>
+                <row n="7">
+                    <cell>A novel based on a real person</cell>
+                    <cell>The Interpretation of Murder</cell>
+                    <cell>Jed Rubenfeld</cell>
+                </row>
+                <row n="8">
+                    <cell>A book set in a country that fascinates you</cell>
+                    <cell>Burial Rites (Iceland)</cell>
+                    <cell>Hannah Kent</cell>
+                </row>
+                <row n="9">
+                    <cell>A book with a time of day in the title</cell>
+                    <cell>Dusk or Dark or Dawn or Day</cell>
+                    <cell>Seanan McGuire</cell>
+                </row>
+                <row n="10">
+                    <cell>A book about a villain or antihero</cell>
+                    <cell>I Am Not a Serial Killer</cell>
+                    <cell>Dan Wells</cell>
+                </row>
+                <row n="11">
+                    <cell>A book about death or grief</cell>
+                    <cell>The Accidential Tourist</cell>
+                    <cell>Anne Tyler</cell>
+                </row>
+                <row n="12">
+                    <cell>A book with a female author who uses a male pseudonym</cell>
+                    <cell>Lethal White</cell>
+                    <cell>Robert Galbraith</cell>
+                </row>
+                <row n="13">
+                    <cell>A book with an LGBTQ+ protagonist</cell>
+                    <cell>Will Grayson, Will Grayson</cell>
+                    <cell>John Green</cell>
+                </row>
+                <row n="14">
+                    <cell>A book that is also a stage play or musical</cell>
+                </row>
+                <row n="15">
+                    <cell>A book by an author of a different ethnicity than you</cell>
+                </row>
+                <row n="16">
+                    <cell>A book about feminism</cell>
+                </row>
+                <row n="17">
+                    <cell>A book about mental health</cell>
+                </row>
+                <row n="18">
+                    <cell>A book you borrowed or that was given to you as a gift</cell>
+                    <cell>Don't Put Me In, Coach </cell>
+                    <cell>Mark Titus</cell>
+                </row>
+                <row n="19">
+                    <cell>A book by two authors</cell>
+                    <cell>Pepsepolis Rising</cell>
+                    <cell>James S.A. Corey</cell>
+                </row>
+                <row n="20">
+                    <cell>A book about or involving a sport</cell>
+                </row>
+                <row n="21">
+                    <cell>A book by a local author</cell>
+                </row>
+                <row n="22">
+                    <cell>A book with your favorite color in the title</cell>
+                    <cell>Red Rising</cell>
+                    <cell>Pierce Brown</cell>
+                </row>
+                <row n="23">
+                    <cell>A book with alliteration in the title</cell>
+                </row>
+                <row n="24">
+                    <cell>A book about time travel</cell>
+                </row>
+                <row n="25">
+                    <cell>A book with a weather element in the title</cell>
+                </row>
+                <row n="26">
+                    <cell>A book set at sea</cell>
+                </row>
+                <row n="27">
+                    <cell>A book with an animal in the title</cell>
+                </row>
+                <row n="28">
+                    <cell>A book set on a different planet</cell>
+                </row>
+                <row n="29">
+                    <cell>A book with song lyrics in the title</cell>
+                </row>
+                <row n="30">
+                    <cell>A book about or set on Halloween</cell>
+                </row>
+                <row n="31">
+                    <cell>A book with characters who are twins</cell>
+                </row>
+                <row n="32">
+                    <cell>A book mentioned in another book</cell>
+                    <cell>This Side of Paradise</cell>
+                    <cell>F. Scott Fitzgerald</cell>
+                </row>
+                <row n="33">
+                    <cell>A book from a celebrity book club</cell>
+                    <cell>Little Fires Everywhere</cell>
+                    <cell>Celeste Ng</cell>
+                </row>
+                <row n="34">
+                    <cell>A childhood classic you’ve never read</cell>
+                    <cell>A Wrinkle in Time</cell>
+                    <cell>Madelein L'Engle</cell>
+                </row>
+                <row n="35">
+                    <cell>A book that’s published in 2018</cell>
+                </row>
+                <row n="36">
+                    <cell>A past Goodreads Choice Awards winner</cell>
+                </row>
+                <row n="37">
+                    <cell>A book set in the decade you were born</cell>
+                    <cell>Somewhere Off The Coast of Maine</cell>
+                    <cell>Ann Hood</cell>
+                </row>
+                <row n="38">
+                    <cell>A book you meant to read in 2017 but didn’t get to</cell>
+                </row>
+                <row n="39">
+                    <cell>A book with an ugly cover</cell>
+                </row>
+                <row n="40">
+                    <cell>A book that involves a bookstore or library</cell>
+                </row>
+                <row n="41">
+                    <cell>Your favorite prompt from the 2015, 2016,or 2017 POPSUGAR Reading
+                        Challenges</cell>
+                    <cell>A Separation</cell>
+                    <cell>Katie Kitamura</cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>
