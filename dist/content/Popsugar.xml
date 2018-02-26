@@ -17,11 +17,11 @@
     <text>
         <body>
             <table>
-                <head>Sheet1</head>
+                <head>Popsugar Challenge 2018</head>
                 <row n="1">
-                    <cell>Prompt</cell>
-                    <cell>Title</cell>
-                    <cell>Author</cell>
+                    <cell><hi rend="bold">Prompt</hi></cell>
+                    <cell><hi rend="bold">Title</hi></cell>
+                    <cell><hi rend="bold">Author</hi></cell>
                 </row>
                 <row n="2">
                     <cell>A book made into a movie you’ve already seen</cell>
