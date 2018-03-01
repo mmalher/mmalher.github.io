@@ -1,0 +1,473 @@
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Matt</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>No publication statement</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A TEI file automatically converted from a XSLX file.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <head>Sheet1</head>
+                <row n="1">
+                    <cell/>
+                </row>
+                <row n="2">
+                    <cell>Best Picture</cell>
+                    <cell>Best Director</cell>
+                </row>
+                <row n="3">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="4">
+                    <cell>Call Me by Your Name – Peter Spears, Luca Guadagnino, Emilie Georges, and
+                        Marco Morabito</cell>
+                    <cell>Christopher Nolan – <hi rend="italic">Dunkirk</hi></cell>
+                </row>
+                <row n="5">
+                    <cell>Darkest Hour – Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten, and
+                        Douglas Urbanski</cell>
+                    <cell>Jordan Peele – <hi rend="italic">Get Out</hi></cell>
+                </row>
+                <row n="6">
+                    <cell>Dunkirk – Emma Thomas and Christopher Nolan</cell>
+                    <cell>Greta Gerwig – <hi rend="italic">Lady Bird</hi></cell>
+                </row>
+                <row n="7">
+                    <cell>Get Out – Sean McKittrick, Jason Blum, Edward H. Hamm Jr., and Jordan
+                        Peele</cell>
+                    <cell>Paul Thomas Anderson – <hi rend="italic">Phantom Thread</hi></cell>
+                </row>
+                <row n="8">
+                    <cell>Lady Bird – Scott Rudin, Eli Bush, and Evelyn O'Neill</cell>
+                    <cell>Guillermo del Toro – <hi rend="italic">The Shape of Water</hi></cell>
+                </row>
+                <row n="9">
+                    <cell>Phantom Thread – JoAnne Sellar, Paul Thomas Anderson, Megan Ellison and
+                        Daniel Lupi</cell>
+                    <cell/>
+                </row>
+                <row n="10">
+                    <cell>The Post – Amy Pascal, Steven Spielberg, and Kristie Macosko
+                        Krieger</cell>
+                    <cell/>
+                </row>
+                <row n="11">
+                    <cell>The Shape of Water – Guillermo del Toro and J. Miles Dale</cell>
+                    <cell/>
+                </row>
+                <row n="12">
+                    <cell>Three Billboards Outside Ebbing, Missouri – Graham Broadbent, Pete
+                        Czernin, and Martin McDonagh</cell>
+                    <cell/>
+                </row>
+                <row n="13">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="14">
+                    <cell>Best Actor</cell>
+                    <cell>Best Actress</cell>
+                </row>
+                <row n="15">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="16">
+                    <cell>Timothée Chalamet – <hi rend="italic">Call Me by Your Name</hi> as Elio
+                        Perlman</cell>
+                    <cell>Sally Hawkins – <hi rend="italic">The Shape of Water</hi> as Elisa
+                        Esposito</cell>
+                </row>
+                <row n="17">
+                    <cell>Daniel Day-Lewis – <hi rend="italic">Phantom Thread</hi> as Reynolds
+                        Woodcock</cell>
+                    <cell>Frances McDormand – <hi rend="italic">Three Billboards Outside Ebbing,
+                            Missouri</hi> as Mildred Hayes</cell>
+                </row>
+                <row n="18">
+                    <cell>Daniel Kaluuya – <hi rend="italic">Get Out</hi> as Chris Washington</cell>
+                    <cell>Margot Robbie – <hi rend="italic">I, Tonya</hi> as Tonya Harding</cell>
+                </row>
+                <row n="19">
+                    <cell>Gary Oldman – <hi rend="italic">Darkest Hour</hi> as Winston
+                        Churchill</cell>
+                    <cell>Saoirse Ronan – <hi rend="italic">Lady Bird</hi> as Christine "Lady Bird"
+                        McPherson</cell>
+                </row>
+                <row n="20">
+                    <cell>Denzel Washington – <hi rend="italic">Roman J. Israel, Esq.</hi> as Roman
+                        J. Israel</cell>
+                    <cell>Meryl Streep – <hi rend="italic">The Post</hi> as Katharine Graham</cell>
+                </row>
+                <row n="21">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="22">
+                    <cell>Best Supporting Actor</cell>
+                    <cell>Best Supporting Actress</cell>
+                </row>
+                <row n="23">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="24">
+                    <cell>Willem Dafoe – <hi rend="italic">The Florida Project</hi> as Bobby
+                        Hicks</cell>
+                    <cell>Mary J. Blige – <hi rend="italic">Mudbound</hi> as Florence Jackson</cell>
+                </row>
+                <row n="25">
+                    <cell>Woody Harrelson – <hi rend="italic">Three Billboards Outside Ebbing,
+                            Missouri</hi> as Chief Bill Willoughby</cell>
+                    <cell>Allison Janney – <hi rend="italic">I, Tonya</hi> as LaVona Golden</cell>
+                </row>
+                <row n="26">
+                    <cell>Richard Jenkins – <hi rend="italic">The Shape of Water</hi> as
+                        Giles</cell>
+                    <cell>Lesley Manville – <hi rend="italic">Phantom Thread</hi> as Cyril
+                        Woodcock</cell>
+                </row>
+                <row n="27">
+                    <cell>Christopher Plummer – <hi rend="italic">All the Money in the World</hi> as
+                        J. Paul Getty</cell>
+                    <cell>Laurie Metcalf – <hi rend="italic">Lady Bird</hi> as Marion
+                        McPherson</cell>
+                </row>
+                <row n="28">
+                    <cell>Sam Rockwell – <hi rend="italic">Three Billboards Outside Ebbing,
+                            Missouri</hi> as Officer Jason Dixon</cell>
+                    <cell>Octavia Spencer – <hi rend="italic">The Shape of Water</hi> as Zelda
+                        Delilah Fuller</cell>
+                </row>
+                <row n="29">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="30">
+                    <cell>Best Original Screenplay</cell>
+                    <cell>Best Adapted Screenplay</cell>
+                </row>
+                <row n="31">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="32">
+                    <cell>The Big Sick – Written by Emily V. Gordon and Kumail Nanjiani</cell>
+                    <cell>Call Me by Your Name – James Ivory based on the novel by André
+                        Aciman</cell>
+                </row>
+                <row n="33">
+                    <cell>Get Out – Written by Jordan Peele</cell>
+                    <cell>The Disaster Artist – Scott Neustadter and Michael H. Weber based on the
+                        book by Greg Sestero and Tom Bissell</cell>
+                </row>
+                <row n="34">
+                    <cell>Lady Bird – Written by Greta Gerwig</cell>
+                    <cell>Logan – Screenplay by Scott Frank, James Mangold and Michael Green; Story
+                        by James Mangold based on characters from the X-Men comic books and
+                        theatrical motion pictures</cell>
+                </row>
+                <row n="35">
+                    <cell>The Shape of Water – Screenplay by Guillermo del Toro and Vanessa Taylor;
+                        Story by Guillermo del Toro</cell>
+                    <cell>Molly's Game – Aaron Sorkin based on the memoir by Molly Bloom</cell>
+                </row>
+                <row n="36">
+                    <cell>Three Billboards Outside Ebbing, Missouri – Written by Martin
+                        McDonagh</cell>
+                    <cell>Mudbound – Virgil Williams and Dee Rees based on the novel by Hillary
+                        Jordan</cell>
+                </row>
+                <row n="37">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="38">
+                    <cell>Best Animated Feature Film</cell>
+                    <cell>Best Foreign Language Film</cell>
+                </row>
+                <row n="39">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="40">
+                    <cell>The Boss Baby – Tom McGrath and Ramsey Ann Naito</cell>
+                    <cell>A Fantastic Woman (Chile) in Spanish – Directed by Sebastián Lelio</cell>
+                </row>
+                <row n="41">
+                    <cell>The Breadwinner – Nora Twomey and Anthony Leo</cell>
+                    <cell>The Insult (Lebanon) in Arabic – Directed by Ziad Doueiri</cell>
+                </row>
+                <row n="42">
+                    <cell>Coco – Lee Unkrich and Darla K. Anderson</cell>
+                    <cell>Loveless (Russia) in Russian – Directed by Andrey Zvyagintsev</cell>
+                </row>
+                <row n="43">
+                    <cell>Ferdinand – Carlos Saldanha</cell>
+                    <cell>On Body and Soul (Hungary) in Hungarian – Directed by Ildikó Enyedi</cell>
+                </row>
+                <row n="44">
+                    <cell>Loving Vincent – Dorota Kobiela, Hugh Welchman and Ivan Mactaggart</cell>
+                    <cell>The Square (Sweden) in Swedish – Directed by Ruben Östlund</cell>
+                </row>
+                <row n="45">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="46">
+                    <cell>Best Documentary – Feature</cell>
+                    <cell>Best Documentary – Short Subject</cell>
+                </row>
+                <row n="47">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="48">
+                    <cell>Abacus: Small Enough to Jail – Steve James, Mark Mitten and Julie
+                        Goldman</cell>
+                    <cell>Edith+Eddie – Laura Checkoway and Thomas Lee Wright</cell>
+                </row>
+                <row n="49">
+                    <cell>Faces Places – Agnès Varda, JR and Rosalie Varda</cell>
+                    <cell>Heaven Is a Traffic Jam on the 405 – Frank Stiefel</cell>
+                </row>
+                <row n="50">
+                    <cell>Icarus – Bryan Fogel and Dan Cogan</cell>
+                    <cell>Heroin(e) – Elaine McMillion Sheldon and Kerrin Sheldon</cell>
+                </row>
+                <row n="51">
+                    <cell>Last Men in Aleppo – Feras Fayyad, Kareem Abeed and Søren Steen
+                        Jespersen</cell>
+                    <cell>Knife Skills – Thomas Lennon</cell>
+                </row>
+                <row n="52">
+                    <cell>Strong Island – Yance Ford and Joslyn Barnes</cell>
+                    <cell>Traffic Stop – Kate Davis and David Heilbroner</cell>
+                </row>
+                <row n="53">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="54">
+                    <cell>Best Live Action Short Film</cell>
+                    <cell>Best Animated Short Film</cell>
+                </row>
+                <row n="55">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="56">
+                    <cell>DeKalb Elementary – Reed Van Dyk</cell>
+                    <cell>Dear Basketball – Glen Keane and Kobe Bryant</cell>
+                </row>
+                <row n="57">
+                    <cell>The Eleven O'Clock – Derin Seale and Josh Lawson</cell>
+                    <cell>Garden Party – Victor Caire and Gabriel Grapperon</cell>
+                </row>
+                <row n="58">
+                    <cell>My Nephew Emmett – Kevin Wilson Jr.</cell>
+                    <cell>Lou – Dave Mullins and Dana Murray</cell>
+                </row>
+                <row n="59">
+                    <cell>The Silent Child – Chris Overton and Rachel Shenton</cell>
+                    <cell>Negative Space – Max Porter and Ru Kuwahata</cell>
+                </row>
+                <row n="60">
+                    <cell>Watu Wote/All of Us – Katja Benrath and Tobias Rosen</cell>
+                    <cell>Revolting Rhymes – Jakob Schuh and Jan Lachauer</cell>
+                </row>
+                <row n="61">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="62">
+                    <cell>Best Original Score</cell>
+                    <cell>Best Original Song</cell>
+                </row>
+                <row n="63">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="64">
+                    <cell>Dunkirk – Hans Zimmer</cell>
+                    <cell>"Mighty River" from <hi rend="italic">Mudbound</hi> – Music and Lyrics by
+                        Mary J. Blige, Raphael Saadiq and Taura Stinson</cell>
+                </row>
+                <row n="65">
+                    <cell>Phantom Thread – Jonny Greenwood</cell>
+                    <cell>"Mystery of Love" from <hi rend="italic">Call Me by Your Name</hi> – Music
+                        and Lyrics by Sufjan Stevens</cell>
+                </row>
+                <row n="66">
+                    <cell>The Shape of Water – Alexandre Desplat</cell>
+                    <cell>"Remember Me" from <hi rend="italic">Coco</hi> – Music and Lyrics by
+                        Kristen Anderson-Lopez and Robert Lopez</cell>
+                </row>
+                <row n="67">
+                    <cell>Star Wars: The Last Jedi – John Williams</cell>
+                    <cell>"Stand Up for Something" from <hi rend="italic">Marshall</hi> – Music by
+                        Diane Warren; Lyrics by Common and Diane Warren</cell>
+                </row>
+                <row n="68">
+                    <cell>Three Billboards Outside Ebbing, Missouri – Carter Burwell</cell>
+                    <cell>"This Is Me" from <hi rend="italic">The Greatest Showman</hi> – Music and
+                        Lyrics by Benj Pasek and Justin Paul</cell>
+                </row>
+                <row n="69">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="70">
+                    <cell>Best Sound Editing</cell>
+                    <cell>Best Sound Mixing</cell>
+                </row>
+                <row n="71">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="72">
+                    <cell>Baby Driver – Julian Slater</cell>
+                    <cell>Baby Driver – Julian Slater, Tim Cavagin and Mary H. Ellis</cell>
+                </row>
+                <row n="73">
+                    <cell>Blade Runner 2049 – Mark Mangini and Theo Green</cell>
+                    <cell>Blade Runner 2049 – Ron Bartlett, Doug Hemphill and Mac Ruth</cell>
+                </row>
+                <row n="74">
+                    <cell>Dunkirk – Richard King and Alex Gibson</cell>
+                    <cell>Dunkirk – Mark Weingarten, Gregg Landaker and Gary A. Rizzo</cell>
+                </row>
+                <row n="75">
+                    <cell>The Shape of Water – Nathan Robitaille and Nelson Ferreira</cell>
+                    <cell>The Shape of Water – Christian Cooke, Brad Zoern and Glen Gauthier</cell>
+                </row>
+                <row n="76">
+                    <cell>Star Wars: The Last Jedi – Matthew Wood and Ren Klyce</cell>
+                    <cell>Star Wars: The Last Jedi – David Parker, Michael Semanick, Ren Klyce and
+                        Stuart Wilson</cell>
+                </row>
+                <row n="77">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="78">
+                    <cell>Best Production Design</cell>
+                    <cell>Best Cinematography</cell>
+                </row>
+                <row n="79">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="80">
+                    <cell>Beauty and the Beast – Production Design: Sarah Greenwood; Set Decoration:
+                        Katie Spencer</cell>
+                    <cell>Blade Runner 2049 – Roger Deakins</cell>
+                </row>
+                <row n="81">
+                    <cell>Blade Runner 2049 – Production Design: Dennis Gassner; Set Decoration:
+                        Alessandra Querzola</cell>
+                    <cell>Darkest Hour – Bruno Delbonnel</cell>
+                </row>
+                <row n="82">
+                    <cell>Darkest Hour – Production Design: Sarah Greenwood; Set Decoration: Katie
+                        Spencer</cell>
+                    <cell>Dunkirk – Hoyte van Hoytema</cell>
+                </row>
+                <row n="83">
+                    <cell>Dunkirk – Production Design: Nathan Crowley; Set Decoration: Gary
+                        Fettis</cell>
+                    <cell>Mudbound – Rachel Morrison</cell>
+                </row>
+                <row n="84">
+                    <cell>The Shape of Water – Production Design: Paul Denham Austerberry; Set
+                        Decoration: Shane Vieau and Jeff Melvin</cell>
+                    <cell>The Shape of Water – Dan Laustsen</cell>
+                </row>
+                <row n="85">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="86">
+                    <cell>Best Makeup and Hairstyling</cell>
+                    <cell>Best Costume Design</cell>
+                </row>
+                <row n="87">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="88">
+                    <cell>Darkest Hour – Kazuhiro Tsuji, David Malinowski and Lucy Sibbick</cell>
+                    <cell>Beauty and the Beast – Jacqueline Durran</cell>
+                </row>
+                <row n="89">
+                    <cell>Victoria &amp; Abdul – Daniel Phillips and Lou Sheppard</cell>
+                    <cell>Darkest Hour – Jacqueline Durran</cell>
+                </row>
+                <row n="90">
+                    <cell>Wonder – Arjen Tuiten</cell>
+                    <cell>Phantom Thread – Mark Bridges</cell>
+                </row>
+                <row n="91">
+                    <cell/>
+                    <cell>The Shape of Water – Luis Sequeira</cell>
+                </row>
+                <row n="92">
+                    <cell/>
+                    <cell>Victoria &amp; Abdul – Consolata Boyle</cell>
+                </row>
+                <row n="93">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="94">
+                    <cell>Best Film Editing</cell>
+                    <cell>Best Visual Effects</cell>
+                </row>
+                <row n="95">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="96">
+                    <cell>Baby Driver – Paul Machliss and Jonathan Amos</cell>
+                    <cell>Blade Runner 2049 – John Nelson, Gerd Nefzer, Paul Lambert and Richard R.
+                        Hoover</cell>
+                </row>
+                <row n="97">
+                    <cell>Dunkirk – Lee Smith</cell>
+                    <cell>Guardians of the Galaxy Vol. 2 – Christopher Townsend, Guy Williams,
+                        Jonathan Fawkner and Dan Sudick</cell>
+                </row>
+                <row n="98">
+                    <cell>I, Tonya – Tatiana S. Riegel</cell>
+                    <cell>Kong: Skull Island – Stephen Rosenbaum, Jeff White, Scott Benza and Mike
+                        Meinardus</cell>
+                </row>
+                <row n="99">
+                    <cell>The Shape of Water – Sidney Wolinsky</cell>
+                    <cell>Star Wars: The Last Jedi – Ben Morris, Mike Mulholland, Neal Scanlan and
+                        Chris Corbould</cell>
+                </row>
+                <row n="100">
+                    <cell>Three Billboards Outside Ebbing, Missouri – Jon Gregory</cell>
+                    <cell>War for the Planet of the Apes – Joe Letteri, Daniel Barrett, Dan Lemmon
+                        and Joel Whist</cell>
+                </row>
+                <row n="101">
+                    <cell/>
+                    <cell/>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>
