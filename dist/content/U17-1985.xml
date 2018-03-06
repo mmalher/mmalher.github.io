@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.dlib.indiana.edu/lib/xml/ufc/minutes.xsd"
+   xml:id="InU-Ar-c180-U17-1985">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>University Faculty Council Circular U17-<date when="1985">1985</date>
+            </title>
+            <title type="gmd">a machine-readable transcription</title>
+            <funder>Indiana University Faculty Council</funder>
+            <respStmt>
+               <resp>Transcribed from the original record by</resp>
+               <!--Insert proper name, i.e. Nicole Mares-->
+               <name>Matthew Malher</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Indiana University Archives</authority>
+            <address>
+               <addrLine>Herman B Wells Library E460</addrLine>
+               <addrLine>1320 East 10th Street</addrLine>
+               <addrLine>Bloomington, Indiana 47405</addrLine>
+               <addrLine>Phone: 812-855-1127</addrLine>
+               <addrLine>Fax: 812-855-8104</addrLine>
+            </address>
+            <publisher>Indiana University Libraries</publisher>
+            <!--changed publisher value from "Indiana University, Digital Library Program" 6/2017 per schema rules- Mary Mellon-->
+            <pubPlace>Bloomington, Indiana</pubPlace>
+            <availability status="unknown">
+               <p>Copyright interests for this set of minutes belongs to the Trustees of Indiana
+                  University. For more information, contact the Indiana University Archivist.</p>
+            </availability>
+            <!--Insert date of minutes in RLG format, ie. 2003-09-19-->
+            <date when="1985-04-23">1985-04-23</date>
+            <!--Replace [idno] with collection ID number and date of meeting in RLG format ie. InU-Ar-c180-1984-04-18. 
+Add date to id type attribute as well.-->
+            <idno type="InU-Ar-c180-U17-1985">InU-Ar-c180-U17-1985</idno>
+         </publicationStmt>
+            <notesStmt>
+               <note>
+                  <ref target="http://purl.dlib.indiana.edu/iudl/archives/ufc/1985-04-23">April 23, 1985<!--Month 00, Year--></ref>
+               </note>
+            </notesStmt>
+         <sourceDesc>
+            <bibl>University Faculty Council Circular U17-<date when="1985">1985</date>, C180, Indiana University Archives.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <!--States how and under what circumstances corrections have been made in the text.-->
+            <!--Use the correction tag to document any corrections you make from the text
+     version to the electronic version. i.e. spelling errors or typos.  
+     This includes the paragraph and item sections as well.-->
+            <correction status="unknown" method="silent">
+               <p>Corrected from original document using corr and sic tags</p>
+            </correction>
+         </editorialDecl>
+         <p>Created in machine-readable format from Microsoft Word file using OxGarage utility.</p>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="Matthew Malher, Indiana University" when="2018-02-05">Encoding started.</change>
+         <change who="Matthew Malher, Indiana University" when="2018-02-05">Encoding completed.</change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div type="circular">
+            <head>Amendment of the
+               Code of Academic Ethics</head>
+            <p rend="right">Circular U17-85</p>
+            <p>
+               TO: University Faculty Council<lb/>
+               FROM: Affirmative Action Committee<lb/>
+               DATE: March 27, 1985<lb/>
+               SUBJECT: Amendment of the<lb/>
+               <hi rend="bold">Code of Academic Ethics</hi>
+            </p>
+            <p rend="Body text (2)">In the course of reviewing the policy on nepotism, the Faculty
+               Council Affirmative Action Committee discussed intimate, personal relationships
+               between persons who are not related by blood or marriage and which therefore do not
+               fall under the policy on nepotism. The committee found that such relationships
+               frequently create difficulties similar to those which the policy on nepotism is
+               designed to prevent. To address this problem the Affirmative Action Committee moves
+               the amendment of the
+               <hi rend="bold" xml:space="preserve">Code of Academic Ethics </hi>as
+               indicated in Section A below.</p>
+            <p rend="Body text (2)">The committee also discussed intimate, personal relationships
+               between faculty and students. The committee felt that such relationships and efforts
+               to invite them give rise to complaints of sexual harassment and impair the trust and
+               professional integrity which are necessary for an academic community to flourish.
+               Accordingly, the Affirmative Action Committee recommends the amendment of the
+               <hi rend="bold" xml:space="preserve">Code of Academic Ethics </hi>as
+               indicated in Section B below.</p>
+            <list type="ordered" rend="upper-latin">
+            <item>THE FOLLOWING PARAGRAPH SHALL BE ADDED TO SECTION A ("RIGHTS
+               AND RESPONSIBILITIES"), SUBSECTION "SPECIFIC RESPONSIBILITIES," OF THE
+               <hi rend="bold" xml:space="preserve">CODE OF ACADEMIC ETHICS </hi>[PAGE
+               47 ff. OF THE 1982
+               <hi rend="bold" xml:space="preserve">ACADEMIC HANDBOOK]. </hi>IT
+               SHALL BE NUMBERED 14, AND ALL FOLLOWING PARAGRAPHS SHALL BE RENUMBERED.
+            <list type="simple">
+               <item>14. IN THE INTEREST OF AVOIDING ACTUAL OR PERCEIVED CONFLICT OF
+               INTEREST, ACADEMIC PERSONNEL SHALL NOT DIRECTLY SUPERVISE EMPLOYEES WITH WHOM THEY
+               ARE HAVING SEXUAL, AMOROUS, OR SUBSTANTIAL FINANCIAL RELATIONSHIPS. ACADEMIC
+               SUPERVISORS SHALL DISQUALIFY THEMSELVES FROM EMPLOYMENT-RELATED DECISIONS CONCERNING
+               SUCH EMPLOYEES AND, IN CONSULTATION WITH THE EMPLOYEE INVOLVED AND OTHER APPROPRIATE
+               PERSONS, THE DEAN OF THE FACULTIES OR OTHER EQUIVALENT CAMPUS ADMINISTRATOR SHALL
+               TAKE STEPS FOR THE APPOINTMENT OF A SURROGATE SUPERVISOR.</item></list></item>
+            <item>THE FOLLOWING PARAGRAPH SHALL BE ADDED TO SECTION A ("RIGHTS
+               AND RESPONSIBILITIES"), FOLLOWING THE SUBSECTION "RELATIONS WITH COLLEAGUES" OF THE
+               <hi rend="bold" xml:space="preserve">CODE OF ACADEMIC ETHICS </hi>[PAGE
+               48 OF THE 1982 <hi rend="bold">ACADEMIC HANDBOOK].</hi>
+            <list type="simple"><item><hi rend="bold" xml:space="preserve">RELATIONS WITH STUDENTS. </hi>THE
+               FACULTY SUBSCRIBES TO THE LONGSTANDING ACADEMIC NORM THAT SEXUAL OR AMOROUS
+               RELATIONSHIPS BETWEEN FACULTY (AS WELL AS ASSOCIATE INSTRUCTORS) AND STUDENTS FOR
+               WHOM THEY HAVE PROFESSIONAL RESPONSIBILITY ARE UNACCEPTABLE EVEN WHEN BOTH PARTIES
+               HAVE CONSENTED TO THE DEVELOPMENT OF SUCH A RELATIONSHIP. SUCH RELATIONSHIPS NOT
+               ONLY RAISE QUESTIONS ABOUT THE PROFESSIONAL INTEGRITY OF THE PARTICULAR FACULTY
+               MEMBER (OR ASSOCIATE INSTRUCTOR) INVOLVED BUT ALSO OF THE UNIVERSITY AS A WHOLE.
+               FURTHERMORE, WHEN SUCH LIAISONS OCCUR, THEY CAN LEAD TO DEMORALIZATION AMONG OTHER
+               STUDENTS, WHO MAY PERCEIVE A STUDENT IN SUCH A RELATIONSHIP AS BENEFITING IN A
+               SPECIAL WAY IN TERMS OF ACADEMIC, FINANCIAL, OR CAREER OPPORTUNITIES.</item></list></item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
